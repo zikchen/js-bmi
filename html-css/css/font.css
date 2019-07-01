@@ -1,0 +1,146 @@
+.wrap{
+	font-family:微軟正黑體;
+}
+.header{
+	font-size:15px;
+}
+.header a{
+	text-decoration: none;
+}
+.nav_menu .fb a{
+	border-right:1px solid #cccccc;
+	color:#667aad;
+	padding-right:8px;
+}
+.nav_menu .twi a{
+	color:#00aaec;
+	padding-left:5px;
+}
+.navbar a:hover{
+	border-bottom:3px solid #00cc99;
+}
+.home_text{
+	padding:40px 0px 40px 20px;
+	color: white;
+	font-size:36px;
+	margin-top:95px;
+	background:url(../image/images/bannerRect_02.png);
+}
+.nav{
+	padding:5px 13px 6px 0px;
+	background:#f6f6f6;
+}
+.navbar{
+	background:#ffffff;
+	padding:7.4px 19px 7.4px 19px;
+}
+.navbar ul{
+	padding-top:11px;
+}
+.navbar_menu a{
+	padding:11px;
+	display: block;
+}
+.introduce {
+  padding:55px 37px 0px 19px;
+}
+.introduce h2{
+	font-size: 18px;
+	padding-bottom: 5px;
+}
+.introduce p,.introduce li{
+	line-height: 1.3em;
+}
+.introduce div{
+	box-shadow:2px 2px 2px 2px #dbdbdb;
+	text-align: center;	
+}
+.introduce .img1{
+	margin:10px 0px 28px 0px;
+}
+.introduce .img2{
+	margin:20px 0px 82px 0px;
+}
+.introduce .img3{
+	margin:10px 0px 45px 0px;
+}
+.introduce ul{
+	list-style-type:disc;
+	list-style-position: inside;
+}
+.introduce li{
+	text-align: left;
+	padding-left:2px;
+}
+
+.feature p{
+	font-size: 24pt;
+}
+.feature table{
+	font-size: 15pt;
+	text-align: left;
+}
+.feature th{
+	background: #f7f7f7;
+	font-weight:bold;
+}
+.feature th,td{
+	padding: 9px 0px 12px 20px;
+}
+.feature p {
+	padding:30px 0px 30px 0px;
+	text-align: center;
+	font-weight:bold
+}
+.feature .focus{
+	color:#26ad88;
+}
+.feedback{
+	margin:60px 0px 0px 0px;
+}
+.feedback p{
+	color:white;
+	font-size: 24pt;
+	text-align: center;
+}
+.feedback form{
+	float:left;
+	padding:19px 34px 20px 20px;
+}
+.feedback form textarea,input{
+	border-radius:5px 7px;
+	border: 1px solid #DBDBDB;
+	outline:none
+}
+.feedback input{
+	margin:3px 0px 10px 0px;
+}
+.feedback .btn{
+	float:right;
+	margin-right:46px;
+	background:#00cc99;
+	color:white;
+	border: 1px solid #00cc99;
+}
+.feedback fieldset{
+	padding:19px 0px 0px 0px;
+	color:white;
+	font-weight: bold;
+}
+.feedback_text{
+	padding:38px 0px 0px 0px;
+}
+.footer img{
+	float:left;
+}
+.footer ul{
+	float:right;
+}
+.footer ul li{
+	margin-bottom:14px;
+}
+.footer ul a{
+	text-decoration: none;
+	color:#e55995;
+}
+
